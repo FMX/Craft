@@ -14,3 +14,11 @@ log.txt
 *.dll
 *.pyc
 
+.idea
+*.cbp
+cursor
+monitors
+msaa
+glfw3Config.cmake
+glfw3ConfigVersion.cmake
+glfw_config.h
